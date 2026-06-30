@@ -839,7 +839,7 @@ html, body {
 .summary-card:first-child {
   color: #ffffff;
   border: 0;
-  background: var(--olive) !important;
+  background: linear-gradient(145deg, #a59c93, #8f877f) !important;
 }
 
 .summary-card:first-child h3 {
@@ -847,7 +847,7 @@ html, body {
 }
 
 .summary-card:first-child p {
-  color: #e5ead3 !important;
+  color: #ede8e3 !important;
 }
 
 .summary-card:first-child .visual {
